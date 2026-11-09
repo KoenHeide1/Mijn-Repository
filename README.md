@@ -1,4 +1,4 @@
 # Mijn-Repository
 Dit is lekker mijn repository.
-
-Hopelijk komt dit in de checklist
+Ik heb een checklist gedaan
+Wat wil ik eigenlijk nogmeer?
