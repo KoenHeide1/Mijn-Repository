@@ -4,6 +4,7 @@ De checklist voor komende tijd:\
 -Github proberen.\
 -Thermodynamica.\
 -Mediteren.\
+-Eerder slapen.
 
 
 a=int(input())
