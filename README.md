@@ -1,3 +1,3 @@
 # Mijn-Repository
-Dit is lekker mijn repository.
-hoi
+De checklist voor komende tijd:
+
