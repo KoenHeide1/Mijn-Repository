@@ -8,9 +8,9 @@ De checklist voor komende tijd:\
 
 
 Voor dinsdag 10 november:\
--voorbereiden van practicum\
--japans proberen\
--thermodynamica opschrijven wat geleerd
+- [ ] voorbereiden van practicum\
+- [ ] japans proberen\
+- [ ]thermodynamica opschrijven wat geleerd
 
 
 a=int(input())
