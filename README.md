@@ -1,4 +1,6 @@
 # Mijn-Repository
+
+
 De checklist voor komende tijd:\
 \
 -Github proberen.\
@@ -16,3 +18,9 @@ Voor dinsdag 10 november:\
 a=int(input())
 if a==8:
     print('Oke')
+=======
+
+Dit is lekker mijn repository.
+Ik heb een checklist gedaan
+Wat wil ik eigenlijk nogmeer?
+
